@@ -1,5 +1,5 @@
 const express = require('express');
-const redis = require('redis');
+//const redis = require('redis');
 
 //const dbUrl=process.env.REDIS_URL;
 const app = express();
